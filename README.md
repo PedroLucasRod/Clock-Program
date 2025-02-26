@@ -1,2 +1,2 @@
 Hello, I'm Pedro Lucas.
-This is a simple clock program to learn more about HTML, CSS and JS.
+This is a clock program + stopwatch, to learn more about HTML, CSS and JS.
